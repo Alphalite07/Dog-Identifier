@@ -1,0 +1,6 @@
+torch
+torchvision
+pillow
+opencv-python
+ultralytics
+pytorch-metric-learning

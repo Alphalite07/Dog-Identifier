@@ -124,5 +124,5 @@ interface = gr.Interface(
 )
 
 if __name__ == "__main__":
-    # Runs the web server on localhost:7860
+    # Runs the web server on localhost:7860 the default Gradio port. Change server_name and server_port if needed.
     interface.launch(server_name="0.0.0.0", server_port=7860)
